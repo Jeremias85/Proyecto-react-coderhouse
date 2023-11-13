@@ -11,7 +11,7 @@ function App() {
 
       </Navbar>
 
-      <ItemListContainer/> 
+      <ItemListContainer saludo="Bienvenid@ a nuestro sitio web!"/> 
     </div>
   );
 }

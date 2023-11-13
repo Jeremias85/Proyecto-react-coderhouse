@@ -4,6 +4,7 @@ function CartWidget() {
     return (
         <div>
             <BsFillCartFill />
+            {/* Falta la notificación harcodeada */}
         </div>
     )
 }
