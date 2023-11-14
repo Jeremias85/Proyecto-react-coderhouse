@@ -8,10 +8,8 @@ function App() {
     <div className="App">
       <Navbar>
         <CartWidget />
-
       </Navbar>
-
-      <ItemListContainer saludo="Bienvenid@ a nuestro sitio web!"/> 
+      <ItemListContainer greeting="Bienvenidos a nuestro sitio web!"/> 
     </div>
   );
 }
