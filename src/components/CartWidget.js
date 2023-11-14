@@ -4,6 +4,7 @@ function CartWidget() {
     return (
         <div>
             <BsFillCartFill />
+            <span className="badge text-bg-secondary">4</span>
         </div>
     )
 }
